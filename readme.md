@@ -4,3 +4,5 @@ In this assignment, I created a Python project and containerized it using Docker
 
 
 ## Docker Hub Repo Screenshots
+
+![Docker Hub pushed image] (images/img1.png)
